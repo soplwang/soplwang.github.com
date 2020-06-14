@@ -1,4 +1,4 @@
-# 网手工 - [Contact](pages/contact.md)
+# Machine A Man - [Contact](pages/contact.md)
 
 ## Blogs
 
